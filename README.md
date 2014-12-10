@@ -15,5 +15,3 @@ yiic migrate --migrationPath=application.modules.image.migrations
 3. open yourwebsite.com/image
 
 If you have any questions feel free to [contact with me](mailto:pavel.rybako@gmail.com "my gmail").
-
-
